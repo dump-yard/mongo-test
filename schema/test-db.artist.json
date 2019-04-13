@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5cb1a85135b54a12a8a40abc"},"firstname":"OneRepublic","lastname":"","isfamous":false}
+{"_id":{"$oid":"5cb1a87635b54a12a8a40abe"},"firstname":"The Chainsmokers","lastname":"","isfamous":true}
+{"_id":{"$oid":"5cb1a8c435b54a12a8a40abf"},"firstname":"avicii","lastname":"","isfamous":true}
+{"_id":{"$oid":"5cb1a91d35b54a12a8a40ac0"},"firstname":"Marshmello","lastname":"","isfamous":true}
+{"_id":{"$oid":"5cb1a95435b54a12a8a40ac1"},"firstname":"Tessa","lastname":"Violet","isfamous":false}
+{"_id":{"$oid":"5cb1aa3435b54a12a8a40ac5"},"firstname":"Maroon 5","lastname":"","isfamous":true}
