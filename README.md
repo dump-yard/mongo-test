@@ -1,7 +1,7 @@
 ## test
 ### starting
 ``` bash
-$ npm start
+$ npm i && npm start
 ```
 
 ### querying songs by popular artists
